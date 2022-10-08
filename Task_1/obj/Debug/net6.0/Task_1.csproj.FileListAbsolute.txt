@@ -1,0 +1,15 @@
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\bin\Debug\net6.0\Task_1.exe
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\bin\Debug\net6.0\Task_1.deps.json
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\bin\Debug\net6.0\Task_1.dll
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\bin\Debug\net6.0\Task_1.pdb
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\obj\Debug\net6.0\Task_1.dll
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\obj\Debug\net6.0\Task_1.pdb
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+G:\i_am_programmer\my_programs\VeryHardTask\Task_1\obj\Debug\net6.0\ref\Task_1.dll
